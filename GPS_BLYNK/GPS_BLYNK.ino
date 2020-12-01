@@ -2,6 +2,7 @@
 
 //Source for this code:
 //Viral Science www.viralsciencecreativity.com www.youtube.com/c/viralscience
+//https://www.viralsciencecreativity.com/post/real-time-gps-location-tracker-nodemcu-esp8266
 
 #include <TinyGPS++.h>
 #include <SoftwareSerial.h>
